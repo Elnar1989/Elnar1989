@@ -1,4 +1,4 @@
-### 👋 Hi, my name is Oleg Lee! I'm JavaScript developer from Moscow.
+### 👋 Hi, my name is Elnar Minazhetdinov! I'm JavaScript developer from Moscow.
 
 ### 🌱 Check my projects: PITAA, Couch-Tinder.
 
