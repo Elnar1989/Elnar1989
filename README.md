@@ -1,5 +1,10 @@
-### Hi there 👋
+### 👋 Hi, my name is Oleg Lee! I'm JavaScript developer from Moscow.
 
+### 🌱 Check my projects: PITAA, Couch-Tinder.
+
+### 💞️ My languages and technologies: JavaScript, ReactJS, Redux, MongoDB, PostgreSQL, Express, API, NodeJS, HTML, CSS.
+
+###  📫 My mail: eminazhetdinov@gmail.com, Telegram: @bolshoy1989
 <!--
 **Elnar1989/Elnar1989** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
